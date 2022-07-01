@@ -1,0 +1,8 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CLASSES_ROOT\Directory\Background\shell\Organizer]
+@="Organize as fotos!"
+"Icon"="C:\\Program Files\\Organizer\\org.ico"
+
+[HKEY_CLASSES_ROOT\Directory\Background\shell\Organizer\command]
+@="\"C:\\Program Files\\Organizer\\main.exe\" \"%v.\""
